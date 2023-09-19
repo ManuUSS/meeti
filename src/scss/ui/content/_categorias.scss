@@ -5,4 +5,7 @@
     background-color: v.$grisClaro;
     padding: 5rem 0;
     
+    &__heading {
+        @include m.heading;
+    }
 }
