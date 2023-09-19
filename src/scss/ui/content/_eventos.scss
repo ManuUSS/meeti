@@ -37,4 +37,11 @@
         color: v.$gris;
         margin: 1rem 0;
     }
+    
+    &__autor {
+        display: flex;
+        align-items: center;
+        gap: 2rem;
+        margin-top: 2rem;
+    }
 }
