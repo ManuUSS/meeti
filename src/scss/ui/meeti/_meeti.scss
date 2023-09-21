@@ -2,4 +2,9 @@
 
 .meeti {
     
+    &__nombre {
+        @include m.heading;
+        margin-bottom: 5rem;
+    }
+
 }
