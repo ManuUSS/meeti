@@ -12,5 +12,9 @@
             @include m.grid(3, 2rem);
         }
     }
+    
+    &__informacion {
+        grid-column: 1 / 3;
+    }
 
 }
