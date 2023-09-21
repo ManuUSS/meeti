@@ -8,5 +8,8 @@
         text-align: center;
     }
 
-
+    &__heading,
+    &__texto {
+        color: v.$blanco;
+    }
 }
